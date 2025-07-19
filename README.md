@@ -22,10 +22,10 @@ This project introduces a **custom Convolutional Neural Network (CNN)** model to
 
 ### ✅ Step 3: Mel-Spectrogram Augmentation
 - **Three augmentations**: horizontal flip, 15° rotation, and random noise  
-  → Implemented in: [`ICBHIAug3MFCC.ipynb`]
+  → Implemented in: [`Aug3MFCC.ipynb`]
   
 - **Five augmentations**: above 3 + brightness and contrast change  
-  → Implemented in: [`ICBHIAug5MFCC.ipynb`]
+  → Implemented in: [`Aug5MFCC.ipynb`]
 
 ### ✅ Step 4: CNN Model for Classification
 - Proposed custom CNN architecture trained on augmented Mel-spectrograms.

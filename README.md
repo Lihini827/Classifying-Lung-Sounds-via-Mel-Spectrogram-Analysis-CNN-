@@ -6,7 +6,7 @@ This project introduces a **custom Convolutional Neural Network (CNN)** model to
 
 - **Goal**: Classify different types of respiratory diseases using lung sound recordings.
 - **Method**: Transform audio signals into Mel-spectrograms and use a custom-designed CNN for classification.
-- **Dataset**: ICBHI (International Conference on Biomedical and Health Informatics) lung sound dataset.
+- 
 
 ---
 
